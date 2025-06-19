@@ -10,3 +10,5 @@
 
 - 🔭 I’m currently working on C++ and python
 - 🌱 I’m currently learning DSA and solving problems
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGONIXX15&layout=compact&langs_count=7&hide=html,css)
